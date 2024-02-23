@@ -6,7 +6,7 @@ Cross-platform silk codec wrap library depends on [ploverlake/silk](https://gith
 Linux/Unix like
 ```bash
   # clone
-  $ git clone https://github.com/KonataDev/libSilkCodec --recurse-submodules
+  $ git clone https://github.com/LagrangeDev/libSilkCodec --recurse-submodules
   $ cd libSilkCodec
 
   # just make it
@@ -23,7 +23,7 @@ Windows
   # installed the Visual Studio
 
   # clone
-  > git clone https://github.com/KonataDev/libSilkCodec --recurse-submodules
+  > git clone https://github.com/LagrangeDev/libSilkCodec --recurse-submodules
   > cd libSilkCodec
 
   # make it
